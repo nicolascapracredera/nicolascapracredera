@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @nicolascapracredera
-- 👀 I’m a Consultant in Credera's OTS Practice
-- 📫 How to reach me: nicolas.capra@credera.com
+- 👋  Hi, I’m @nicolascapracredera
+- 👀  I’m a Consultant in Credera's OTS Practice
+- 📫  How to reach me: nicolas.capra@credera.com
